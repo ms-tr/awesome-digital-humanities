@@ -19,8 +19,6 @@ If you want to contribute to this list (please do), send a pull request or conta
 - [Text Encoding](#text-encoding)
 - [Text Mining](#text-mining)
     - [Python](#python)
-      - [NLTK](#nltk)
-      - [Orange](#orange)
     - [R](#R)
 - [Topic Modelling](#topic-modelling)
 - [Visualization](#visualization)
