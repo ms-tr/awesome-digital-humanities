@@ -12,7 +12,6 @@ If you want to contribute to this list (please do), send a pull request or conta
 - [Internet Research Tools](#internet-research-tools)
 - [Mapping](#mapping)
 - [Network Analysis](#network-analysis)
-    - [Gephi](#gephi)
 - [Simulation](#simulation)
 - [Stylometry](#stylometry)
 - [Text Collation](#text-collation)
