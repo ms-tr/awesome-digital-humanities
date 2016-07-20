@@ -56,6 +56,11 @@ If you want to contribute to this list (please do), send a pull request or conta
 * [Apache OpenNLP](https://opennlp.apache.org/) - Natural Language Processing Tools
 * [Stanford CoreNLP](http://nlp.stanford.edu/software/) -Natural Language Processing Tools 
 
+<a name="Python" />
+#### Python
+* [NLTK](http://www.nltk.org/) - Natural language toolkit.
+* [Orange](http://orange.biolab.si/) - Open source data visualization and data analysis for novice and expert. Interactive workflows with a large toolbox.
+
 <a name="R" />
 #### R
 
