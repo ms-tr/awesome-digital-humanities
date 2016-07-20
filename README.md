@@ -51,6 +51,11 @@ If you want to contribute to this list (please do), send a pull request or conta
 <a name="Text Mining" />
 ## Text Mining
 
+<a name="Java" />
+#### Java
+* [Apache OpenNLP](https://opennlp.apache.org/) - Natural Language Processing Tools
+* [Stanford CoreNLP](http://nlp.stanford.edu/software/) -Natural Language Processing Tools 
+
 <a name="Python" />
 #### Python
 * [NLTK](http://www.nltk.org/) - Natural language toolkit.
