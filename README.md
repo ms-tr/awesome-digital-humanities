@@ -48,7 +48,7 @@ If you want to contribute to this list (please do), send a pull request or conta
 
 <a name="Text Encoding" />
 ## Text Encoding
-* [TUSTEP](http://www.tustep.uni-tuebingen.de/) - Tuebingen System of Text Processing Tools: A professional toolbox for scholarly processing textual data inlcuding modules for data capture, information retrieval, text collation, text analysis, sorting and ordering, rule-based text manipulation, and output in electronic or conventional form (including typesetting in professional quality), see also [TUTSTEP-Wiki](http://tustep.wikispaces.com/TUSTEP-Wiki).
+* [TUSTEP](http://www.tustep.uni-tuebingen.de/) - Tuebingen System of Text Processing Tools: A professional toolbox for scholarly processing textual data inlcuding modules for data capture, information retrieval, text collation, text analysis, sorting and ordering, rule-based text manipulation, and output in electronic or conventional form (including typesetting in professional quality), see also [TUSTEP-Wiki](http://tustep.wikispaces.com/TUSTEP-Wiki).
 
 <a name="Text Mining" />
 ## Text Mining
