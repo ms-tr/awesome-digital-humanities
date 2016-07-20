@@ -17,6 +17,7 @@ If you want to contribute to this list (please do), send a pull request or conta
 - [Text Collation](#text-collation)
 - [Text Encoding](#text-encoding)
 - [Text Mining](#text-mining)
+    - [Java](#java)
     - [Python](#python)
     - [R](#R)
 - [Topic Modelling](#topic-modelling)
@@ -54,7 +55,7 @@ If you want to contribute to this list (please do), send a pull request or conta
 <a name="Java" />
 #### Java
 * [Apache OpenNLP](https://opennlp.apache.org/) - Natural Language Processing Tools
-* [Stanford CoreNLP](http://nlp.stanford.edu/software/) -Natural Language Processing Tools 
+* [Stanford CoreNLP](http://nlp.stanford.edu/software/) - Natural Language Processing Tools 
 
 <a name="Python" />
 #### Python
